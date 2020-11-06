@@ -1,0 +1,3 @@
+include ':screensharing'
+include ':app'
+rootProject.name = "EdneedTest"
